@@ -1,0 +1,107 @@
+{
+  "courtyard": [
+    {
+      "seed": 7,
+      "greedy_success": true,
+      "greedy_steps": 14,
+      "greedy_reward": 7.0,
+      "optimal_steps": 14,
+      "random_trials": 100,
+      "random_success_rate": 0.1,
+      "random_mean_capped_steps": 124.35,
+      "max_steps": 128
+    },
+    {
+      "seed": 19,
+      "greedy_success": true,
+      "greedy_steps": 14,
+      "greedy_reward": 7.0,
+      "optimal_steps": 14,
+      "random_trials": 100,
+      "random_success_rate": 0.1,
+      "random_mean_capped_steps": 124.35,
+      "max_steps": 128
+    },
+    {
+      "seed": 42,
+      "greedy_success": true,
+      "greedy_steps": 14,
+      "greedy_reward": 7.0,
+      "optimal_steps": 14,
+      "random_trials": 100,
+      "random_success_rate": 0.1,
+      "random_mean_capped_steps": 124.35,
+      "max_steps": 128
+    }
+  ],
+  "switchback": [
+    {
+      "seed": 7,
+      "greedy_success": true,
+      "greedy_steps": 28,
+      "greedy_reward": -7.0,
+      "optimal_steps": 28,
+      "random_trials": 100,
+      "random_success_rate": 0.0,
+      "random_mean_capped_steps": 128.0,
+      "max_steps": 128
+    },
+    {
+      "seed": 19,
+      "greedy_success": true,
+      "greedy_steps": 28,
+      "greedy_reward": -7.0,
+      "optimal_steps": 28,
+      "random_trials": 100,
+      "random_success_rate": 0.0,
+      "random_mean_capped_steps": 128.0,
+      "max_steps": 128
+    },
+    {
+      "seed": 42,
+      "greedy_success": true,
+      "greedy_steps": 28,
+      "greedy_reward": -7.0,
+      "optimal_steps": 28,
+      "random_trials": 100,
+      "random_success_rate": 0.0,
+      "random_mean_capped_steps": 128.0,
+      "max_steps": 128
+    }
+  ],
+  "crossroads": [
+    {
+      "seed": 7,
+      "greedy_success": true,
+      "greedy_steps": 14,
+      "greedy_reward": 7.0,
+      "optimal_steps": 14,
+      "random_trials": 100,
+      "random_success_rate": 0.16,
+      "random_mean_capped_steps": 121.86,
+      "max_steps": 128
+    },
+    {
+      "seed": 19,
+      "greedy_success": true,
+      "greedy_steps": 14,
+      "greedy_reward": 7.0,
+      "optimal_steps": 14,
+      "random_trials": 100,
+      "random_success_rate": 0.16,
+      "random_mean_capped_steps": 121.86,
+      "max_steps": 128
+    },
+    {
+      "seed": 42,
+      "greedy_success": true,
+      "greedy_steps": 14,
+      "greedy_reward": 7.0,
+      "optimal_steps": 14,
+      "random_trials": 100,
+      "random_success_rate": 0.16,
+      "random_mean_capped_steps": 121.86,
+      "max_steps": 128
+    }
+  ]
+}
